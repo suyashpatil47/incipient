@@ -1,3 +1,3 @@
-clone repo
-npm install
-npm start
+#clone repo
+#npm install
+#npm start
